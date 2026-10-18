@@ -1,0 +1,21 @@
+﻿id,task_name,mode,seconds,exit_code,correct,delivered_nonempty
+01-filter-sum,筛选去重求和,solo,11.911,0,True,True
+01-filter-sum,筛选去重求和,direct,6.202,0,True,True
+02-statistics,中位数与众数,direct,6.535,0,True,True
+02-statistics,中位数与众数,solo,17.404,0,True,True
+03-intervals,合并闭区间,solo,18.27,0,True,True
+03-intervals,合并闭区间,direct,8.851,0,True,True
+04-shortest-path,最短路径,direct,4.856,0,True,True
+04-shortest-path,最短路径,solo,16.489,0,True,True
+05-dates,日期计算,solo,15.901,0,True,True
+05-dates,日期计算,direct,6.86,0,True,True
+06-text,词频排序,direct,4.646,0,True,True
+06-text,词频排序,solo,16.919,0,True,True
+07-join,SQL 连接,solo,18.458,0,True,True
+07-join,SQL 连接,direct,6.12,0,True,True
+08-code-trace,Python 引用,direct,9.258,0,True,True
+08-code-trace,Python 引用,solo,21.966,0,True,True
+09-topology,任务依赖排序,solo,17.598,0,True,True
+09-topology,任务依赖排序,direct,5.167,0,True,True
+10-aggregate,分组汇总,direct,5.257,0,True,True
+10-aggregate,分组汇总,solo,14.505,0,True,True

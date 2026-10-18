@@ -1,0 +1,21 @@
+﻿task,function,mode,seconds,passed,exit_code,reason
+HumanEval/53,add,solo,15.111,True,0,passed official tests
+HumanEval/53,add,direct,4.8,True,0,passed official tests
+HumanEval/30,get_positive,direct,10.471,True,0,passed official tests
+HumanEval/30,get_positive,solo,15.905,True,0,passed official tests
+HumanEval/68,pluck,solo,16.457,True,0,passed official tests
+HumanEval/68,pluck,direct,4.335,True,0,passed official tests
+HumanEval/89,encrypt,direct,5.904,True,0,passed official tests
+HumanEval/89,encrypt,solo,27.352,True,0,passed official tests
+HumanEval/8,sum_product,solo,18.488,True,0,passed official tests
+HumanEval/8,sum_product,direct,5.075,True,0,passed official tests
+HumanEval/97,multiply,direct,5.133,True,0,passed official tests
+HumanEval/97,multiply,solo,14.005,True,0,passed official tests
+HumanEval/92,any_int,solo,17.959,True,0,passed official tests
+HumanEval/92,any_int,direct,5.925,True,0,passed official tests
+HumanEval/23,strlen,direct,5.338,True,0,passed official tests
+HumanEval/23,strlen,solo,16.962,True,0,passed official tests
+HumanEval/147,get_max_triples,solo,17.9,True,0,passed official tests
+HumanEval/147,get_max_triples,direct,8.262,True,0,passed official tests
+HumanEval/104,unique_digits,direct,7.916,True,0,passed official tests
+HumanEval/104,unique_digits,solo,20.938,True,0,passed official tests

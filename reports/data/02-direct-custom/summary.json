@@ -1,0 +1,34 @@
+{
+  "evaluation_and_usage_export_seconds": 5.679,
+  "solo": {
+    "n": 10,
+    "correct": 10,
+    "delivery_success": 10,
+    "total_seconds": 169.421,
+    "mean_seconds": 16.942,
+    "median_seconds": 17.162,
+    "usage_available": 10,
+    "input_tokens": 180597,
+    "output_tokens": 433,
+    "cached_input_tokens": 142336,
+    "reasoning_output_tokens": 178,
+    "reference_total_tokens": 181030
+  },
+  "direct": {
+    "n": 10,
+    "correct": 10,
+    "delivery_success": 10,
+    "total_seconds": 63.752,
+    "mean_seconds": 6.375,
+    "median_seconds": 6.161,
+    "usage_available": 10,
+    "input": 46370,
+    "output": 366,
+    "reasoning": 2904,
+    "cache_read": 49920,
+    "cache_write": 0,
+    "reference_total_tokens": 99560,
+    "reported_cost": 0
+  },
+  "time_change_percent": -62.37
+}

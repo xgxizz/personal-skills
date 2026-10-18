@@ -1,0 +1,41 @@
+{
+  "solo": {
+    "n": 10,
+    "correct": 10,
+    "seconds_total": 208.408,
+    "seconds_mean": 20.841,
+    "seconds_median": 19.634,
+    "codex_input_tokens": 181725,
+    "codex_output_tokens": 426,
+    "codex_cached_input_tokens": 125440,
+    "codex_reasoning_output_tokens": 169,
+    "codex_total_tokens": 182151,
+    "codex_uncached_input_tokens": 56285
+  },
+  "combined": {
+    "n": 10,
+    "correct": 10,
+    "seconds_total": 374.626,
+    "seconds_mean": 37.463,
+    "seconds_median": 25.731,
+    "codex_input_tokens": 182394,
+    "codex_output_tokens": 397,
+    "codex_cached_input_tokens": 129664,
+    "codex_reasoning_output_tokens": 144,
+    "codex_total_tokens": 182791,
+    "codex_uncached_input_tokens": 52730,
+    "worker_correct": 9,
+    "worker_seconds_total": 56.37,
+    "worker_input": 48519,
+    "worker_output": 332,
+    "worker_reasoning": 2284,
+    "worker_cache_read": 46976,
+    "worker_cache_write": 0,
+    "worker_reference_total_tokens": 98111,
+    "worker_reported_cost": 0
+  },
+  "time_change_percent": 79.76,
+  "codex_token_change_percent": 0.35,
+  "combined_reference_total_tokens": 280902,
+  "reference_total_token_change_percent": 54.21
+}

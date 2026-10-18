@@ -1,0 +1,5 @@
+interface:
+  display_name: "按需调用 OpenCode"
+  short_description: "仅在用户明确指定时调用本机 OpenCode，直接采用结果，默认不再独立审核"
+policy:
+  allow_implicit_invocation: false

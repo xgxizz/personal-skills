@@ -1,0 +1,31 @@
+{
+  "source": "https://raw.githubusercontent.com/openai/human-eval/master/data/HumanEval.jsonl.gz",
+  "sha256": "b796127e635a67f93fb35c04f4cb03cf06f38c8072ee7cee8833d7bee06979ef",
+  "population": 164,
+  "seed": 3838785000398921878,
+  "sampling": "random.Random(seed).sample(all_rows,10); no filtering or redraw",
+  "task_ids": [
+    "HumanEval/53",
+    "HumanEval/30",
+    "HumanEval/68",
+    "HumanEval/89",
+    "HumanEval/8",
+    "HumanEval/97",
+    "HumanEval/92",
+    "HumanEval/23",
+    "HumanEval/147",
+    "HumanEval/104"
+  ],
+  "entry_points": [
+    "add",
+    "get_positive",
+    "pluck",
+    "encrypt",
+    "sum_product",
+    "multiply",
+    "any_int",
+    "strlen",
+    "get_max_triples",
+    "unique_digits"
+  ]
+}
